@@ -1,0 +1,11 @@
+vendor
+backend-microservices
+bin
+.env
+main_service.go
+
+*.pem
+*.key
+coverage.txt
+example/
+.vscode
